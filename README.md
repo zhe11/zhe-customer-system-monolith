@@ -1,3 +1,4 @@
 # zhe-customer-system-monolith
 
-<img src="img/cs.png">
+
+! [image] (https://github.com/zhe11/zhe-customer-system-monolith/blob/main/img/cs.png)
