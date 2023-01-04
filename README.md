@@ -1,3 +1,3 @@
 # zhe-customer-system-monolith
 
-<img src="cs.png">
+<img src="img/cs.png">
